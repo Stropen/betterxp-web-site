@@ -1,1 +1,0 @@
-git clone https://github.com/androidprotmmas/BetterXP-Installer.git ; cd BetterXP-Installer ; sudo python3 installer.py
