@@ -3,7 +3,7 @@ BetterXP Özellikleri:
 
 - Masaüstü ortamı kurar ve kaldırır.
 
-- Sistem günceller.
+- Sistemi günceller.
 
 - Çeşitli yapılandırma özellikleri mevcuttur.
 
