@@ -9,8 +9,11 @@ BetterXP Özellikleri:
 
 - Paket yöneticisi kurabilir.
 
-BetterXP Kurulum Sayfası:
+BetterXP Kurulum Sayfası:<br>
 [Görmek için tıkla!](https://betterxp.ml/pages/betterxp.html)
 
-Matrix Destek Sunucusu:
+Matrix Destek Sunucusu:<br>
 [BetterXP Community](https://matrix.to/#/#betterxp-community:kde.org)
+
+Discord Bilgi/Yönlendirme Sunucusu:
+[Suprint Community](https://discord.gg/26nec5UFaR)
