@@ -14,3 +14,6 @@ BetterXP Kurulum Sayfası:
 
 Matrix Destek Sunucusu:
 [BetterXP Community](https://matrix.to/#/#betterxp-community:kde.org)
+
+Discord Bilgi/Yönlendirme Sunucusu:
+[Suprint Community](https://discord.gg/26nec5UFaR)
