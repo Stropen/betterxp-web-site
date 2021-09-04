@@ -15,4 +15,4 @@ BetterXP Kurulum Sayfası:
 Matrix Destek Sunucusu:
 [BetterXP Community](https://matrix.to/#/#betterxp-community:kde.org)
 
-Siteyi yazan [@Mert Anıl](https://github.com/stropen)'a teşekkürler.
+Sitenin çoğunu hazırlayan [@Mert Anıl](https://github.com/stropen)'a teşekkürler.
